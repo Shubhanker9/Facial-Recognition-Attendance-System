@@ -1,3 +1,3 @@
-# Nptel: Face Recog project
+Facial Recognition Project using OPEN CV
 
 ##
